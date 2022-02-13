@@ -1,0 +1,20 @@
+#lfb_bootstraped.lfb_bootstraped #zarinpalFieldsCt.lfb_displayed {
+    border: 2px dashed #BDC3C7;
+    padding: 18px;
+    margin-bottom: 18px;
+}
+
+#lfb_bootstraped.lfb_bootstraped #zarinpalFieldsCt .form-group.lfb_zarinpalField > label
+{
+    display: block !important;
+}
+#lfb_bootstraped.lfb_bootstraped #zarinpalFieldsCt [name="zarinpal_subsFrequency"]{
+    width: 80px;
+}
+#lfb_bootstraped.lfb_bootstraped #zarinpalFieldsCt [name="zarinpal_subsFrequencyType"]{
+    display: inline-block; margin-left: 8px; width: 120px;
+}
+
+.d-block {
+    display: block !important;
+}
